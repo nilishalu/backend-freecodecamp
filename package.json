@@ -2,7 +2,7 @@
   "name": "backend-freecodecamp",
   "version": "1.0.0",
   "description": "A project to explore backend development",
-  "main": "api/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
